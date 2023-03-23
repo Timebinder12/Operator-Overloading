@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading", "Operator Overloading\Operator Overloading.csproj", "{F58DABFB-7CCF-4C75-8C1C-0F9368CE1DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58DABFB-7CCF-4C75-8C1C-0F9368CE1DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58DABFB-7CCF-4C75-8C1C-0F9368CE1DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58DABFB-7CCF-4C75-8C1C-0F9368CE1DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58DABFB-7CCF-4C75-8C1C-0F9368CE1DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B1FA75-5B8F-489B-99B2-F12ECEF15E5E}
+	EndGlobalSection
+EndGlobal
